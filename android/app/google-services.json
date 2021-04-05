@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29286548122",
+    "firebase_url": "https://sharp-oxide-289915.firebaseio.com",
+    "project_id": "sharp-oxide-289915",
+    "storage_bucket": "sharp-oxide-289915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29286548122:android:bd63cb8a5669614783d523",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29286548122-etqk5r9godk2hpo8dis7g1uthrcasapo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.time_tracker",
+            "certificate_hash": "73f0da8687f3f190bc66d617b37f7d51085aecc5"
+          }
+        },
+        {
+          "client_id": "29286548122-ojf1sjarod7febsfd4rambr1ipednfml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtsvqpIDmX5X3LrfeRVTq6zHIR9EoaWx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29286548122-ojf1sjarod7febsfd4rambr1ipednfml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
